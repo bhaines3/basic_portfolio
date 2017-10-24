@@ -1,3 +1,64 @@
 body {
     background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/hypnotize.png");
 }
+
+#header {
+    display: block;
+    top:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#fff;
+    padding:10px;
+    border: 5px;
+    border-color: #CCC;
+    float: right;
+
+}
+
+#NameHeader {
+    background-color: #4aaaa5;
+    color: #fff;
+    float: left;
+    padding: 5px;
+
+}
+
+#HeaderLinks {
+    float: right;
+    color: #777777;
+    text-align: center;
+
+}
+
+#bio-image {
+    float: left;
+    width: 20%;
+    height: 20%;
+    padding:5px;
+}
+
+.container {
+    float: left;
+    background-color: #ffffff;
+    width: 650px;
+    
+}
+
+#ConnectWithMe {
+    float: right;
+    background-color: #ffffff;
+    width: 270px;
+    text-align: center;
+
+}
+
+.wrapper {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+h2 {
+    color:#4aaaa5;
+}
